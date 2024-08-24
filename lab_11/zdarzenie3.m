@@ -1,0 +1,9 @@
+function [v,ister,dir] =zdarzenie3(t,Y)
+
+v=[Y(2);...
+    Y(2)];
+ister=[0;...
+    0];
+dir=[-1;...
+    1];
+
